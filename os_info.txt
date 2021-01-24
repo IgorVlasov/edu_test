@@ -1,4 +1,5 @@
 OS info is 
-uname_result(system='Windows', node='WIN-1JCPUC3LQUE', release='10', version='10.0.19041', machine='AMD64') 
+uname_result(system='Linux', node='911aee91d610', release='5.4.0-1019-gcp', version='#19-Ubuntu SMP Tue Jun 23 15:46:40 UTC 2020', machine='x86_64', processor='x86_64') 
 
-Python version is 3.9.1 (tags/v3.9.1:1e5d33e, Dec  7 2020, 17:08:21) [MSC v.1927 64 bit (AMD64)] ('64bit', 'WindowsPE')
+Python version is 3.8.7 (default, Dec 21 2020, 20:10:35) 
+[GCC 7.5.0] ('64bit', 'ELF')

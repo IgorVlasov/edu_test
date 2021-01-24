@@ -1,0 +1,4 @@
+
+run="python 01_os_info.py"
+language="python3"
+onBoot="echo Booting up!"
